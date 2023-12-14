@@ -8,7 +8,7 @@ st.write("### (Laptop, Refrigerator, Traffic Light, Bottle, Truck, and Train)")
 
 
 st.markdown("Final Exam: Model Deployment") 
-st.text("Diones, John Cedric")
+st.text("Diones, John Cedric N.")
 st.text("Cruz, Daniel Y.")
 
 
