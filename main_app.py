@@ -1,26 +1,9 @@
 import streamlit as st
 import cv2
 import numpy as np
-import tkinter as tk
-
-class MyApp:
-    def __init__(self, root):
-        self.root = root
-        self.root.title("My Application")
-        
-        # Set background color
-        self.root.configure(bg='lightblue')
-
-        # Add your widgets and other components here
-
-if __name__ == "__main__":
-    root = tk.Tk()
-    app = MyApp(root)
-    root.mainloop()
 
 st.write("# Object Classification")
 st.write("### (Laptop, Refrigerator, Traffic Light, Bottle, Truck, and Train)")
-
 
 
 st.markdown("Final Exam: Model Deployment") 
